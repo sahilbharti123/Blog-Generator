@@ -7,8 +7,6 @@ Built with: Python, Streamlit, Langchain, Llama 2
 - Customizable Word Count: Control the length of your blog posts to fit your specific needs.
 - User-Friendly Interface: Streamlit provides a simple and intuitive web app for effortless blog generation.
 
-Impress your audience with captivating blog posts, tailored to their needs, in minutes! This project showcases my expertise in leveraging cutting-edge AI technology for creative content generation.
-
 ## Problem: Creating high-quality blog content can be time-consuming and require specific expertise.
 
 Solution: This Blog Generator harnesses the power of Llama 2, a state-of-the-art large language model from meta, to automatically generate engaging blog posts on a variety of topics.
